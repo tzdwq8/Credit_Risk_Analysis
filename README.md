@@ -8,7 +8,7 @@ For this project we used Python to build and evaluate several machine learning m
 - Compared two machine learning models that reduce bias, **BalancedRandomForestClassifier** and **EasyEnsembleClassifier**.
 
 ## Results
-### RandonOverSample Model
+### RandomOverSample Model
 ![ROS Accuracy](https://user-images.githubusercontent.com/85590155/136723305-a9f8c1db-a2ed-483d-b4d3-c143ceb93eb8.PNG)
 - The balanced accuracy score was **66%**.  Meaning this model was not very good at predicting credit risk.
 
